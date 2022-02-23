@@ -1,0 +1,60 @@
+body {
+    background-image: url('BackgroungLogin.jpg');
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    border: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #3e1932;
+}
+
+input {
+    cursor: pointer;
+}
+
+.container {
+    padding-top: 10vh;
+    width: 100%;
+    margin-top: 20vh;
+    height: 60vh;
+}
+
+.information-search {
+    width: 50%;
+    height: 90%;
+    background-color: #f0cccc9f;
+    border-radius: 15px;
+    margin-left: 47%;
+}
+
+.information-search form {
+    padding: 30px;
+}
+
+.information-search input {
+    font-size: 32px;
+    border-radius: 5px;
+    border: 1px solid #a73939;
+}
+
+.information-search p {
+    font-size: 21px;
+    margin-bottom: 15px;
+    color: #3e1932;
+}
+.information-search h5{
+    margin: 0px;
+}
+.information-search #submit {
+    margin-top: 7px;
+    background-color: #a73939;
+    color: #d6d2da;
+}

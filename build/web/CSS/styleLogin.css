@@ -1,0 +1,98 @@
+body {
+    background-image: url('BackgroungLogin.jpg');
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    border: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #3e1932;
+}
+
+input {
+    cursor: pointer;
+}
+
+.login {
+    width: 100%;
+    margin-top: 20vh;
+    height: 60vh;
+}
+
+.login-form {
+    width: 50%;
+    height: 90%;
+    background-color: #f0cccc9f;
+    border-radius: 15px;
+    margin-left: 47%;
+    margin-top: 3%;
+}
+
+.login-form #form-login {
+    padding: 10px;
+}
+
+.login-form #form-login p {
+    font-size: 21px;
+    margin-bottom: 15px;
+    color: #3e1932;
+}
+.login-form #form-login h5 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.login-form #form-login a {
+    color: #3e1932;
+}
+
+.login-form #form-login .Login-foget-pass {
+    margin-top: 10px;
+}
+
+.login-form #form-login .Login-change-pass {
+    margin-top: 10px;
+}
+
+.login-form #form-login input {
+    font-size: 32px;
+    border-radius: 5px;
+    border: 1px solid #3e1932;
+}
+
+.login-form #form-login #login {
+    margin-top: 2%;
+    margin-left: 20%;
+    background-color: #683d42;
+    color: #cd8b7c;
+    border: none;
+}
+
+.login-form .create {
+    margin-top: 1%;
+    margin-left: 6%;
+    width: 340px;
+    height: 42px;
+    background-color: #683d42;
+    border: none;
+    text-align: center;
+    font-size: 32px;
+    border-radius: 5px;
+}
+
+.login-form .create a {
+    color: #c38577;
+}
+
+
+/* 
+.contact {
+    height: 30vh;
+} */
